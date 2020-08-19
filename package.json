@@ -1,0 +1,27 @@
+{
+  "name": "nocp-log",
+  "version": "1.0.3",
+  "description": "A log generator",
+  "main": "index.js",
+  "scripts": {
+    "version": "echo 1.0.0",
+    "test": "node ./test/test"
+  },
+  "author": {
+    "name": "NriotHrreion",
+    "email": "nriot233@outlook.com",
+    "url": "https://nriothrreion.github.io"
+  },
+  "bugs": {
+    "email": "nriot233@outlook.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.27.0"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "debug"
+  ]
+}
