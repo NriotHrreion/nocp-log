@@ -1,10 +1,10 @@
 {
   "name": "nocp-log",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A log generator",
   "main": "index.js",
   "scripts": {
-    "version": "echo 1.0.0",
+    "version": "echo 1.0.4",
     "test": "node ./test/test"
   },
   "author": {
